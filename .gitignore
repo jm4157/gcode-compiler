@@ -1,0 +1,5 @@
+input/*
+!line_cube.obj
+
+output/*
+!output/line_cube.gcode

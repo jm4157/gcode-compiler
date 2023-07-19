@@ -1,9 +1,10 @@
 //Author Judah Munoz
 
-#ifndef GCODE-COMPILER_STRING
-#define GCODE-COMPILER_STRING
+/*#ifndef GCODE-COMPILER_COMMANDS-H
+#define GCODE-COMPILER_COMMANDS-H*/
+
+
 #include <string>
-#endif
 
 #include "vector.h"
 
@@ -27,3 +28,6 @@
 
 //Sets extruder position to 0
 #define RESET_EXTRUDER "G92 E0"
+
+
+//#endif
